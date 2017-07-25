@@ -1,0 +1,38 @@
+1. Program musi zostaæ skopiowany do nastêpuj¹cej œcie¿ki katalogów:
+   c:\progs\sps_e\testy
+   Kompilowanie bêdzie bardzo trudne je¿eli zostanie przeprowadzone z innego katalogu.
+
+2. Program wynikowy zostanie zapisany zostanie pod nazw¹ "testy.exe". Aby zachowaæ warunki licencji jego nazwa musi zostaæ zmieniona na "spsedit.exe" i w tej postaci mo¿e byæ rozprowadzony.
+
+3. Do kompilatora do³¹czony zosta³ Install Shield for Delphi. Jest on dostarczony i dostosowany do kompilatora Delphi 3.0 i zalecam jego stosowanie w celu wygenerowania dysku instalacyjnego.
+
+4. Program SPSEdit wykorzystuje BDE, który jest uniwersalnym "silnikiem" do obs³ugi baz danych. Bez BDE program nie ruszy.
+
+5. Do prawid³owej instalacji niezbêdne jest skopiwanie ca³ego BDE.
+
+6. Nale¿y ustaliæ do skopiowania alias pod nazw¹ "baza"
+
+7. Instalator musi skopiowaæ wszystkie pliki *.dbf i *.mdx, *.exe, *.dat
+Ostro¿nie z u¿ywaniem opcji "Test Run" IS! Opcja ta wbrew swej nazwie nie tylko testuje, ale i zmienia i czyœci wpisy w zarejestrowanych aliasach BDE. Je¿eli masz zarejestrowane bazy w BDE, to je stracisz (na szczêœcie tylko aliasy).
+
+8. UWAGA!!!Poniewa¿ program zawiera du¿¹ iloœæ odniesieñ do rejestru systemowego, zalecam szczególn¹ uwagê przy przegl¹daniu wpisów przy pomocy IS.
+
+9. ¯eby ju¿ byæ ca³kowicie pewnym, ¿e coœ zostanie pomylone, do Ÿróde³ do³¹czy³em gotowca, którego nale¿y wczytaæ do IS. Plik nazywa siê "SPSEdit.iwz" i  jest gotow¹ instrukcj¹ dla IS jak wykonaæ instalkê. DZia³a on prawid³owo pod warunkiem jak w pkt 1.
+
+10. Mo¿e siê zdarzyæ, ¿e program "zapomni" pierwotn¹ ikonê programu (p³on¹ca pochodnia). Don't worry!
+
+11. W razie pytañ i w¹tpliwoœci:
+    -email darmatel@kr.onet.pl
+    -tel 012 425 66 57
+    -Dzia³ G³ównego Geofizyka poda namiar na moj¹ aktualn¹ grupê.
+
+¯yczê sukcesu! Wszelkie uwagi na temat funkcjonowania programu s¹ po¿¹dane i mile widziane!
+Dariusz Matelowski.
+
+
+
+Przypominam, ¿e w œwietle obowi¹zuj¹cego prawa, nikt nie ma prawa modyfikowaæ kodu Ÿród³owego programu, ani go wykorzystywaæ we w³asnych aplikacjach.
+
+
+
+

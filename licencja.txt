@@ -1,0 +1,26 @@
+Licencja koñcowego u¿ytkownika programu SPSEdit.
+Autor programu: Dariusz Matelowski, darmatel@kr.onet.pl.
+Wersja programu 1.0. Trial.
+
+Program ten jest chroniony prawem autorskim w Polsce i reszcie œwiata. Koñcowy u¿ytkownik powinien
+mieæ na uwadze, ¿e produkt softwarowy nie jest sprzedawany lecz licencjonowany.
+1) Fakt zainstalowania niniejszego oprogramowania wi¹¿e siê z przyjêciem wszystkich zapisów licencji. W przypadku braku 
+zgody na któreœ postanowienie tej licencji, koñcowy odbiorca winien produkt odinstalowaæ.
+2) Kopiowanie, dezasemblacja, wypo¿yczanie i modyfikowanie tego programu oraz niniejszej licencji jest zabronione
+i bêdzie œcigane zgodnie z obowi¹zuj¹cym prawem.
+3) Autor programu nie ponosi odpowiedzialnoœci za skutki u¿ywania tego programu.
+4) Na jednym komputerze mo¿e zostaæ zainstalowana jedna kopia programu. U¿ytkownik mo¿e wykonaæ jedn¹ kopiê zapasow¹
+programu.
+4a) W œrodowisku sieciowym w jednym czasie mo¿e byæ u¿ywana jedna kopia programu (jeden proces).
+5) Je¿eli program zainstalowany jest w œrodowisku sieciowym, u¿ytkownik koñcowy ma prawo
+u¿ywaæ w tym samym czasie programu na jednym stanowisku.
+6) Program ten mo¿e byæ u¿ytkowany bezp³atnie do dnia 30.06.2001. Po tym terminie musi zostaæ
+odinstalowany i u¿ytkownik nie ma prawa go u¿ywaæ.
+
+Cesja prawa do u¿ywania.
+U¿ytkownik nie posiada prawa do sprzeda¿y, dzier¿awy, u¿yczenia ani ¿adnej innej formy odstêpowania tego¿
+oprogramowania.
+
+
+
+Wszelkie prawa zastrze¿one (C) 2001.

@@ -1,0 +1,37 @@
+Program umo¿liwia wyœwietlenie tylko czêœci SPSów. Mo¿na to osi¹gn¹æ wpisuj¹c
+odpowiednie polecenie dla bazy danych w okienku dialogowym na pasku komend.
+Najproœciej zrozumieæ istotê rzeczy na przyk³adach. Oto one:
+1) LINE = 1540                        - wyœwietla tylko PS, dla których linia=1540 (pierwsza czêœæ numeru PS)
+2) (LINE = 1540) and (STATION = 106)  - wyœwietla rekordy o numerze 1540/106
+3) DEPTH >= 10                        - wyœwietla rekordy, dla których g³êbokoœæ jest wiêksza lub równa 10m
+4) ((LINE > 1540) and (STATION = 106)) or (DEPTH < 3)
+                                      - wyœwietla rekordy, których numer LINE jest wiêkszy od 1540
+                                        lez¹ce na linii 106 lub rekordy glebokosci
+                                        strzelania mniejszej ni¿ 3metry
+Zalecam stosowanie nawiasów, tak jak w przyk³adach powy¿ej - uchroni to Was przed niespodziankami.
+Tylko Wasza fantazja ogranicza mo¿liwoœci stosowania tej funkcji.
+W tej chwili nie mo¿na wyœwietlaæ zakresu rekordów.
+UWAGA! Jesli baza SPS zosta³a ograniczona filtrem, wszystkie czynnoœci dokonane
+na bazie odnosz¹ siê tylko do widzianego zakresu. 
+
+Poni¿ej podajê pola i ich znaczenie wg których mo¿na filtrowaæ dane.
+Wczeœniej podam przyk³adowy wiersz SPS-S, do którego bêdê siê odnosi³:
+S5430                 1011V1 -76               723495.2 3161240.0 298.8257104814
+
+IND            -numer kolejny danego wiersza SPS-S w bazie (widaæ go u do³u na listwie)
+IDENT_S        -"S"
+LINE           -5430
+STATION        -101
+KTORY          -1
+KOD_ZRODLA     -V1
+DEPH           -oczywiste chyba (b³¹d w ang. pisowni wybaczycie chyba...)
+UPHOLE         -j.w.
+DATUM          -j.w.
+STATYKA        -76
+WATER          -tu brak
+EASTING        -wspó³rzêdne wschód-zachód
+NORTHING       -wspó³rzêdne pó³noc-po³udnie
+ELEW           -elewacja
+DAY            -kolejny dzieñ roku
+TIME           -czas wykonania PS
+
